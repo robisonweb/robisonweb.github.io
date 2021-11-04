@@ -1,7 +1,16 @@
 ## @RobisonWeb
-<div align="center" style="border-radius: 10px;"> <img src="https://s.gravatar.com/avatar/f7a64ba845073f51c2d3357ad9bae8ae?s=180&r=x" width="180px" >
+
+<style type="text/css">
+#box{
+	width:300px;
+	height:100px;
+	background-color:#666;
+	border-radius: 10px;
+	}
+
+</style>
+<div align="center" id="box" style="border-radius: 10px;"> <img src="https://s.gravatar.com/avatar/f7a64ba845073f51c2d3357ad9bae8ae?s=180&r=x" width="180px" >
 </div>
-[Image](https://s.gravatar.com/avatar/f7a64ba845073f51c2d3357ad9bae8ae?s=180&r=x)
 
 [About Me](https://about.me/robisonweb)
 
